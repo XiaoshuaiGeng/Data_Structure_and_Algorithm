@@ -1,4 +1,4 @@
-# Data_Structure_and_Algorithm
+# Data Structure & Algorithm
 Some basic and practical algorithms inplementations
 <ul>
   <li>Lab 2 - C implementation: get the subsequence which has the largest sum</li>
